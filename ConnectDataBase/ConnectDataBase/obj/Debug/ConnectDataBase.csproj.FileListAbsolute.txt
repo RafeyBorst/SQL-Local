@@ -1,0 +1,7 @@
+c:\users\rafae\Projects\ConnectDataBase\ConnectDataBase\obj\Debug\ConnectDataBase.csprojResolveAssemblyReference.cache
+c:\users\rafae\Projects\ConnectDataBase\ConnectDataBase\obj\Debug\ConnectDataBase.csproj.CoreCompileInputs.cache
+c:\users\rafae\Projects\ConnectDataBase\ConnectDataBase\bin\Debug\ConnectDataBase.exe.config
+c:\users\rafae\Projects\ConnectDataBase\ConnectDataBase\bin\Debug\ConnectDataBase.exe
+c:\users\rafae\Projects\ConnectDataBase\ConnectDataBase\bin\Debug\ConnectDataBase.pdb
+c:\users\rafae\Projects\ConnectDataBase\ConnectDataBase\obj\Debug\ConnectDataBase.exe
+c:\users\rafae\Projects\ConnectDataBase\ConnectDataBase\obj\Debug\ConnectDataBase.pdb
